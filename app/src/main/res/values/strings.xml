@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PlearnV7</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">PREV</string>
+    <string name="start">GOT IT</string>
+
+
+    <string name="lesson1">LESSON-1</string>
+    <string name="lesson2">LESSON-2</string>
+    <string name="lesson3">LESSON-3</string>
+    <string name="lesson4">LESSON-4</string>
+    <string name="lesson5">LESSON-5</string>
+    <string name="play_again">Play Again</string>
+</resources>

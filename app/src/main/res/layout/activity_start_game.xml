@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:keepScreenOn="true"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:background="@drawable/button_bg_round"
+        android:layout_centerVertical="true"
+        android:text="Start"
+        android:id="@+id/btLestGo"
+        android:textSize="70dp"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>
